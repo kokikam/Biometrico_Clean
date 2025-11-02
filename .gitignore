@@ -1,0 +1,6 @@
+frontend_expo/node_modules/
+.env
+__pycache__/
+*.pyc
+venv/
+frontend_expo/node_modules/.bin/acorn
