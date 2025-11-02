@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 venv/
 frontend_expo/node_modules/.bin/acorn
+frontend_expo/.expo/devices.json
+frontend_expo/yarn.lock
+frontend_expo/.yarn/install-state.gz
